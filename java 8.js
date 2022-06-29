@@ -76,39 +76,6 @@
 
 // task 7
 
-// var user=prompt("enter the weight")
-
-// var result=parseInt(user)
-
-// var result1=user.replace("s","")
-
-// var result4=user.replace("kgs",".2 kilograms")
-
-
-// var split=user.split("")
-// var result3=split.splice(2,0,".2")
-
-
-
-// document.write(result+"<br>")
-// document.write(result1+'<br>')
-// document.write(split.join("")+"<br>")
-// document.write(result4+"<br>")
-// document.write("the weight of user is"+ " "+ (result+8.3))
-
-
-
-
-
-
-
-
-
-// var num="123.45"
-// var result=parseFloat(num)
-// console.log(result)
-
-
 
 
 
