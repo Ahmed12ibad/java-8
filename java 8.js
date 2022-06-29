@@ -76,7 +76,8 @@
 
 // task 7
 
-
+ // var user = prompt("Enter the Weight  kg");
+    // alert("Your Weight =" + parseFloat(user) + "Kilograms");
 
 
 
